@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Ladjane e Linda e vai tomar um banho comigo :)</h1>;
+  return <h1>Teste Victor</h1>;
 }
 
 function teste() {
